@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Quelle est la durée maximale d'un contrat de joueur professionnel selon le RSTP ?",
+        "answer": "5 ans, sauf si la législation nationale permet une durée plus longue."
+    },
+    {
+        "question": "Un mineur peut-il signer un contrat professionnel international ?",
+        "answer": "Non, sauf exceptions (déménagement des parents, transfert dans l'UE/EEE entre 16 et 18 ans avec conditions spécifiques)."
+    },
+    {
+        "question": "Quel est le taux maximum de commission qu’un agent peut percevoir selon le règlement des agents ?",
+        "answer": "3% du salaire du joueur (jusqu'à 200k USD) et 5% au-delà ; ou 10% des frais de transfert en cas de représentation du club vendeur."
+    },
+    {
+        "question": "Quels sont les organes judiciaires de la FIFA compétents pour discipline et éthique ?",
+        "answer": "Commission de Discipline, Commission d’Éthique, Tribunal du Football (Chambre de Résolution des Litiges et Commission du Statut du Joueur)."
+    },
+    {
+        "question": "Quelles sont les sanctions possibles selon le Code disciplinaire de la FIFA ?",
+        "answer": "Avertissement, amende, suspension, interdiction de stade, retrait de points, exclusion de compétition, radiation."
+    },
+    {
+        "question": "Qui élabore et modifie les Lois du Jeu ?",
+        "answer": "L’IFAB (International Football Association Board)."
+    },
+    {
+        "question": "Quel est le pourcentage de solidarité reversé aux clubs formateurs lors d’un transfert international ?",
+        "answer": "5% du montant de transfert est redistribué aux clubs ayant formé le joueur entre 12 et 23 ans."
+    },
+    {
+        "question": "Quel est le rôle du Tribunal du Football de la FIFA ?",
+        "answer": "Résoudre les litiges relatifs aux transferts, aux contrats et aux décisions disciplinaires, en première instance."
+    },
+    {
+        "question": "Que stipule le Code d’Éthique sur les conflits d’intérêts ?",
+        "answer": "Les officiels, joueurs et agents doivent éviter toute situation où leur intérêt personnel pourrait interférer avec leurs obligations professionnelles."
+    },
+    {
+        "question": "Quel est le score minimum pour réussir l'examen d'agent FIFA ?",
+        "answer": "75% de bonnes réponses (15/20)."
+    }
+]
